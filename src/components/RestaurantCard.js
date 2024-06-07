@@ -29,7 +29,7 @@ const RestaurantCard = (props) => {
         <div className="rating">
           <h4>{avgRating}</h4>
           <span>
-            <i class="fa-solid fa-star" style={{ color: "orange" }}></i>
+            <i className="fa-solid fa-star" style={{ color: "orange" }}></i>
           </span>
         </div>
       </div>
